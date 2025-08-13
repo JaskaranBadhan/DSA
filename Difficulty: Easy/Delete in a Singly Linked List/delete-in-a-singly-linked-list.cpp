@@ -1,0 +1,41 @@
+/*
+class Node {
+  public:
+    int data;
+    Node* next;
+
+    // Default constructor
+    Node() {
+        data = 0;
+        next = NULL;
+    }
+
+    // Parameterised Constructor
+    Node(int data) {
+        this->data = data;
+        this->next = NULL;
+    }
+};
+*/
+class Solution {
+  public:
+    Node* deleteNode(Node* head, int x) {
+        // code here
+        if(x==1){
+            Node*temp = head;
+            head = head->next;
+            delete temp;
+            return head;
+        }
+        x--;
+        Node *curr = head;
+        Node *prev = NULL;
+        while(x--){
+            prev = curr;
+            curr = curr->next;
+        }
+        prev->next = curr->next;
+        delete curr;
+        return head;
+    }
+};
