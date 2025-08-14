@@ -1,3 +1,4 @@
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -14,15 +15,15 @@ public:
         vector<int> ans;//vector to store the data
         ListNode *temp = head;//temp pointer pointing to head element
         while(temp!=NULL){
-            ans.push_back(temp->val);//the temp value will store  in the ans 
+            ans.push_back(temp->val);//the temp value will store  in the end of ans vector
             temp = temp->next;//temp will iterate to next
         }
-        int i = ans.size()-1;//reverse the data to last index
+        int i = ans.size()-1;//taking i to last index
         temp = head;
         while(temp){
-            temp->val = ans[i];//the value in temp->next will update in ans(i)
+            temp->val = ans[i];//the value in the vector will be point to head in reverse order
             i--;
-            temp = temp->next;//iterating temp to temp->next
+            temp = temp->next;
         }
         return head;
     }
