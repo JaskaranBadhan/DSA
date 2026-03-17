@@ -10,6 +10,7 @@ Leetcode and github
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/JaskaranBadhan/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/JaskaranBadhan/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
