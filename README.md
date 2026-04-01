@@ -7,6 +7,7 @@ Leetcode and github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/JaskaranBadhan/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/JaskaranBadhan/DSA/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,4 +21,8 @@ Leetcode and github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/JaskaranBadhan/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/JaskaranBadhan/DSA/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 <!---LeetCode Topics End-->
