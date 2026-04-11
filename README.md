@@ -6,6 +6,7 @@ Leetcode and github
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/JaskaranBadhan/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/JaskaranBadhan/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/JaskaranBadhan/DSA/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 ## Math
@@ -25,4 +26,12 @@ Leetcode and github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/JaskaranBadhan/DSA/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/JaskaranBadhan/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/JaskaranBadhan/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
