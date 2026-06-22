@@ -9,12 +9,14 @@ Leetcode and github
 | [0014-longest-common-prefix](https://github.com/JaskaranBadhan/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaskaranBadhan/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/JaskaranBadhan/DSA/tree/main/0027-remove-element/) | Easy |
+| [0204-count-primes](https://github.com/JaskaranBadhan/DSA/tree/main/0204-count-primes/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/JaskaranBadhan/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/JaskaranBadhan/DSA/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/JaskaranBadhan/DSA/tree/main/0007-reverse-integer/) | Medium |
+| [0204-count-primes](https://github.com/JaskaranBadhan/DSA/tree/main/0204-count-primes/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/JaskaranBadhan/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -41,4 +43,12 @@ Leetcode and github
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaskaranBadhan/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/JaskaranBadhan/DSA/tree/main/0027-remove-element/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/JaskaranBadhan/DSA/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/JaskaranBadhan/DSA/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
