@@ -18,6 +18,7 @@ Leetcode and github
 | [0007-reverse-integer](https://github.com/JaskaranBadhan/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0204-count-primes](https://github.com/JaskaranBadhan/DSA/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/JaskaranBadhan/DSA/tree/main/0263-ugly-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/JaskaranBadhan/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/JaskaranBadhan/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -52,4 +53,16 @@ Leetcode and github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/JaskaranBadhan/DSA/tree/main/0204-count-primes/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/JaskaranBadhan/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/JaskaranBadhan/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/JaskaranBadhan/DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
