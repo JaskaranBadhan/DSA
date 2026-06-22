@@ -16,6 +16,7 @@ Leetcode and github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/JaskaranBadhan/DSA/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/JaskaranBadhan/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0204-count-primes](https://github.com/JaskaranBadhan/DSA/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/JaskaranBadhan/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/JaskaranBadhan/DSA/tree/main/0509-fibonacci-number/) | Easy |
