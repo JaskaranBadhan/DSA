@@ -6,6 +6,7 @@ Leetcode and github
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/JaskaranBadhan/DSA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/JaskaranBadhan/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaskaranBadhan/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/JaskaranBadhan/DSA/tree/main/0027-remove-element/) | Easy |
@@ -66,4 +67,8 @@ Leetcode and github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/JaskaranBadhan/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/JaskaranBadhan/DSA/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
