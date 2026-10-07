@@ -81,4 +81,8 @@ Leetcode and github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/JaskaranBadhan/DSA/tree/main/0022-generate-parentheses/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/JaskaranBadhan/DSA/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
