@@ -38,6 +38,7 @@ Leetcode and github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/JaskaranBadhan/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0022-generate-parentheses](https://github.com/JaskaranBadhan/DSA/tree/main/0022-generate-parentheses/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ Leetcode and github
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/JaskaranBadhan/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/JaskaranBadhan/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -71,4 +73,12 @@ Leetcode and github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JaskaranBadhan/DSA/tree/main/0001-two-sum/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/JaskaranBadhan/DSA/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/JaskaranBadhan/DSA/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
